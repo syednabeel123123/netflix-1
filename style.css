@@ -611,8 +611,12 @@ footer {
         justify-content: center;
         align-items: center;
     }
-    .hero{
-        padding: 20px;
+   .hero{
+        padding: 0px 20px;
+        height: 70vh;
+    }
+    .main{
+        height: 90vh;
     }
 
     .hero :first-child {
