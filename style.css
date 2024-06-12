@@ -613,10 +613,10 @@ footer {
     }
    .hero{
         padding: 0px 20px;
-        height: 0vh;
+        height: 51vh;
     }
     .main{
-        height: 90vh;
+        height: 80vh;
     }
 
     .hero :first-child {
