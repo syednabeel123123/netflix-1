@@ -613,7 +613,7 @@ footer {
     }
    .hero{
         padding: 0px 20px;
-        height: 70vh;
+        height: 0vh;
     }
     .main{
         height: 90vh;
@@ -713,8 +713,6 @@ footer {
     .footer-question {
         margin: 0px;
         }
-    .main{
-        height:70vh;
-    }
+  
 
 }
